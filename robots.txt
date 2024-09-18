@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://coasl.github.io/Slb/sitemap.Slb.gz
