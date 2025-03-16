@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://coasl.csgad.com/fvc/sitemap.xml.gz
